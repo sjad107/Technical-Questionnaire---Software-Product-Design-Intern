@@ -20,5 +20,5 @@
 ### User Actions
 - Sorting. When the user clicks on the sort drop down for the columns, the table should update to show the data after being sorted
 - Adding users. When the user clicks the New user button, a side window containing a form will be opened. The form consists of: 
-  Username, Display Name, Phone, Email, User Roles (Drop down menu containing: Guest, Admin, SuperAdming options), a check box for the enabled status of the user.
+  Username, Display Name, Phone, Email, User Roles (Drop down menu containing: Guest, Admin, SuperAdmin options), a check box for the enabled status of the user.
 - Saving new user. After the user has entered the required information in the form, the Save user button now can be pressed and the new user will be added to the table.
